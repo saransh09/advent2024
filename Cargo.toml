@@ -1,0 +1,11 @@
+[package]
+name = "AdventOfCode24_Rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1.11.1"
+once_cell = "1.20.2"
+rayon = "1.10.0"
